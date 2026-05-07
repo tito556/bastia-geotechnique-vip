@@ -1,0 +1,52 @@
+# Geotechnique — Bastia
+
+> Geotechnical engineering services in Bastia, France.
+
+## Services
+- [Amelioration Sols](https://bastia.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://bastia.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://bastia.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://bastia.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://bastia.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://bastia.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://bastia.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://bastia.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://bastia.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://bastia.geotechnique.vip/essais-proctor/)
+- [Excavations](https://bastia.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://bastia.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://bastia.geotechnique.vip/fondations/)
+- [Geotechnique Routiere](https://bastia.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://bastia.geotechnique.vip/granulometrie/)
+- [Injections](https://bastia.geotechnique.vip/injections/)
+- [Investigation](https://bastia.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://bastia.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://bastia.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://bastia.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://bastia.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://bastia.geotechnique.vip/liquefaction/)
+- [Masw](https://bastia.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://bastia.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://bastia.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://bastia.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://bastia.geotechnique.vip/pieux/)
+- [Puits Inspection](https://bastia.geotechnique.vip/puits-inspection/)
+- [Radiers](https://bastia.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://bastia.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://bastia.geotechnique.vip/resistivite/)
+- [Semelles](https://bastia.geotechnique.vip/semelles/)
+- [Sismique](https://bastia.geotechnique.vip/sismique/)
+- [Sondages Spt](https://bastia.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://bastia.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://bastia.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://bastia.geotechnique.vip/talus/)
+- [Triaxial](https://bastia.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://bastia.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://bastia.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://bastia.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Bastia, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
